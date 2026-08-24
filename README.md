@@ -120,33 +120,10 @@ Expect new chapters weekly.
 - Add prompt testing checklist  
 - Add PDF version  
 
-Star the repo ⭐ to follow along.
 
 ---
 
-# 💬 Feedback & Contributions
 
-This is a community-first project.
-
-- Found a typo? **Open an Issue**  
-- Want to improve an explanation? **Send a PR**  
-- Have a great example prompt? **Share it**  
-
-Every contribution helps someone learn better.
-
----
-
-# 📜 License
-
-Released under the **MIT License**.  
-You’re free to share, remix, and use the content in your own work with attribution.
-
----
-
-# 🚀 Start Here
-
-👉 **[Read Chapter 1: The 5-Minute Mindset](Chapters/Chapter%201%20-%20Five%20Minute%20Mindset.md)**  
-👉 **Star the repo** to support the project
 
 ---
 
