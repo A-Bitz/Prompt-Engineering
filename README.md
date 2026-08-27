@@ -8,22 +8,7 @@ Each chapter includes:
 - practice prompts  
 - “Before vs After” transformations  
 
-Chapter | Status | Link
----|---|---
-**01. The 5-Minute Mindset** | ✅ Complete | [Chapter 1](Chapters/Chapter%2001%20-%20Five%20Minute%20Mindset.md)
-**02. Your First Magic Prompt (Specificity)** | ✅ Complete | [Chapter 2](Chapters/Chapter%2002%20-%20Your%20First%20Magic%20Prompt.md)
-**03: The Persona Pattern** | ✅ **Complete** | [Chapter 3](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/16dc53069cbe7d64c755763afc7362fa0660e674/Chapters/Chapter%2005%20-%20Thinking%20Out%20Loud%20(Chain-of-Thought).md)
-**04. Show and Tell (Few-Shot Learning)** | ✅ **Complete** | [Chapter 4](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/4a65d295f706cd6322858f778ae14da5187b718e/Chapters/Chapter%2003%20%E2%80%94%20The%20Persona%20Pattern%20(%22Act%20as%E2%80%A6%22).md)
-**05. Thinking Out Loud (Chain-of-Thought)** | ✅ **Complete** | [Chapter 5](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/16dc53069cbe7d64c755763afc7362fa0660e674/Chapters/Chapter%2005%20-%20Thinking%20Out%20Loud%20(Chain-of-Thought).md)
-**06. Taming the Output (Formatting)** | ✅ **Complete**  | [Chapter 6](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/16dc53069cbe7d64c755763afc7362fa0660e674/Chapters/Chapter%2006%20-%20Formatting%20(Taming%20the%20Output).md)
-**07. The Art of the Follow-Up (Iteration)** | ✅ **Complete**  | [Chapter 7](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/16dc53069cbe7d64c755763afc7362fa0660e674/Chapters/Chapter%2007%20-%20Iteration%20(Follow-Up).md)
-**08. Negative Prompting** | ✅ **Complete**   | [Chapter 8](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/16dc53069cbe7d64c755763afc7362fa0660e674/Chapters/Chapter%2008%20-%20Negative%20Prompting.md)
-**09. Task Chaining** | ✅ **Complete** | [Chapter 9](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/4d473bea34d1bcb7e9cdba0ee93ac5f20e8ccdd9/Chapters/Chapter%2009%20-%20Task%20Chaining%20(Modular%20Decomposition%20for%20AI%20Reasoning).md)
-**10. The Prompt Recipe Book (Cheat Sheet)** | ✅ **Complete**  | [Chapter 10](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/fe1f2495c857930184b58d9243ba0d83f7d0b49a/Chapters/Chapter%2010%20-%20Prompt%20Recipe%20Book.md)
-**11. Prompting for Images** | ✅ **Complete** | [Chapter 11](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/511cb91baa0c8808b483bded77536ae6f89d7164/Chapters/Chapter%2011%20-%20Image%20Prompting%20(DALL%C2%B7E%2C%20Midjourney%2C%20Stable%20Diffusion).md)
-**12. Testing Your Prompts** | ✅ **Complete** | [Chapter 12](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/145ea033409c65e757bc42c2310470648a7e49d2/Chapters/Chapter%2012%20-%20Testing%20Your%20Prompts.md)
-**13. Avoiding Bad Answers (Limitations)** | ✅ **Complete** | [Chapter 13](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/5398b946be80a390defcebeeebe9e01705e25fb7/Chapters/Chapter%2013%20-%20Avoiding%20Bad%20Answers%20(Limitations).md)
-**14. Capstone: Putting It All Together** | ✅ **Complete** | [Chapter 14](https://github.com/arorarishi/Prompt-Engineering-Jumpstart/blob/448324a138843ecfe85874a2ba7c69c59c18c132/Chapters/Chapter%2014%20-%20Capstone%20Putting%20It%20All%20Together.md)
+
 
 ---
 
